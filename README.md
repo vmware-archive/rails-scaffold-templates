@@ -1,2 +1,1 @@
-rails-scaffold-templates
-========================
+# Rails Templates
